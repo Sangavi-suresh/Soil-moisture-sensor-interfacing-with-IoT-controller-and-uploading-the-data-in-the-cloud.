@@ -7,7 +7,7 @@ To upload the Soil-moisture sensor value in the Things mate using Arduino contro
 
 # Apparatus required:
 Arduino Controller  </br>
-Indoor gateway</br>
+Indoor gateway</br> 
 LoRaWAN shield </br>
 Soil moisture sensor </br>
 Power supply </br>
